@@ -3,6 +3,11 @@
 ## These are some basic information for requesting this api.
 
 ### URL
+
+#### Swagger documentation
+https://whenes-taskmanager-api.herokuapp.com/swagger-ui.html
+
+#### Online service
 https://whenes-taskmanager-api.herokuapp.com/api
 
 ### Methods
