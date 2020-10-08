@@ -12,7 +12,7 @@ https://whenes-taskmanager-api.herokuapp.com/api
 `/task`
 
 ## Sample call
-This request: *GET https://whenes-taskmanager-api.herokuapp.com/api/task*
+### This request: *GET https://whenes-taskmanager-api.herokuapp.com/api/task*
 
 Results in this response:
 `[
