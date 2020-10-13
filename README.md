@@ -19,7 +19,7 @@ https://whenes-taskmanager-api.herokuapp.com/api
 ## Sample call
 ### This request: *GET https://whenes-taskmanager-api.herokuapp.com/api/task*
 
-Results in this response:
+Results for this request:
 `[
   {
     "id": 1,
@@ -49,7 +49,7 @@ With this JSON body:
 	"status": "TODO"
 }`
 
-Results in this response:
+Results for this request:
 `{
   "id": 3,
   "title": "Task One",
@@ -66,7 +66,7 @@ With this JSON body:
   "status": "DONE"
 }`
 
-Results in this response:
+Results for this request:
 `{
   "id": 1,
   "title": "Task update datas",
@@ -76,5 +76,5 @@ Results in this response:
 
 ### This request: *DELETE https://whenes-taskmanager-api.herokuapp.com/api/task/3*
 
-Results in this response:
+Results for this request:
 `Task successfully removed!`
